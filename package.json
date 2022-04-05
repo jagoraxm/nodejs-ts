@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-ts-mat-jag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagoraxm/nodejs-ts.git"
+  },
+  "keywords": [],
+  "author": "JAG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagoraxm/nodejs-ts/issues"
+  },
+  "homepage": "https://github.com/jagoraxm/nodejs-ts#readme",
+  "dependencies": {
+    "proyecto-1a-matematicas-jag": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
